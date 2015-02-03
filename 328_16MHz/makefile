@@ -72,7 +72,7 @@ libarduino_core.lss: libarduino_core.a
 
 sizedummy: libarduino_core.a
 	@echo 'Invoking: Print Size'
-	-avr-size --format=avr --mcu=atmega16 libarduino_core.a
+	-avr-size --format=avr --mcu=atmega328p libarduino_core.a
 	@echo 'Finished building: $@'
 	@echo ' '
 
