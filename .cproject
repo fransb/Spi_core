@@ -30,6 +30,7 @@
 								<option id="de.innot.avreclipse.compiler.option.language.ubitfields.1192631843" name="bitfields are unsigned (-funsigned-bitfields)" superClass="de.innot.avreclipse.compiler.option.language.ubitfields" value="false" valueType="boolean"/>
 								<option id="de.innot.avreclipse.compiler.option.incpath.1826652221" name="Include Paths (-I)" superClass="de.innot.avreclipse.compiler.option.incpath" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/arduino_core/src}&quot;"/>
 								</option>
 								<option id="de.innot.avreclipse.compiler.option.optimize.shortenums.2103507112" name="Short enums (-fshort-enums)" superClass="de.innot.avreclipse.compiler.option.optimize.shortenums" value="false" valueType="boolean"/>
 								<option id="de.innot.avreclipse.compiler.option.optimize.packstruct.1213080332" name="Pack structs (-fpack-struct)" superClass="de.innot.avreclipse.compiler.option.optimize.packstruct" value="false" valueType="boolean"/>
@@ -47,6 +48,7 @@
 								<option id="de.innot.avreclipse.cppcompiler.option.language.noexceptions.832344991" name="Do not use Exceptions (-fno-exceptions)" superClass="de.innot.avreclipse.cppcompiler.option.language.noexceptions" value="true" valueType="boolean"/>
 								<option id="de.innot.avreclipse.cppcompiler.option.incpath.587396789" name="Include Paths (-I)" superClass="de.innot.avreclipse.cppcompiler.option.incpath" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/arduino_core/src}&quot;"/>
 								</option>
 								<inputType id="de.innot.avreclipse.cppcompiler.input.1997858039" superClass="de.innot.avreclipse.cppcompiler.input"/>
 							</tool>
