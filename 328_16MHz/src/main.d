@@ -1,31 +1,30 @@
-src/main.d: ../src/main.cpp \
- /home/frans/workspace/arduino_core/src/Arduino.h \
- /home/frans/workspace/arduino_core/src/binary.h \
- /home/frans/workspace/arduino_core/src/WCharacter.h \
- /home/frans/workspace/arduino_core/src/WString.h \
- /home/frans/workspace/arduino_core/src/HardwareSerial.h \
- /home/frans/workspace/arduino_core/src/Stream.h \
- /home/frans/workspace/arduino_core/src/Print.h \
- /home/frans/workspace/arduino_core/src/Printable.h \
- /home/frans/workspace/arduino_core/src/new.h \
- /home/frans/workspace/arduino_core/src/pins_arduino.h
+src/main.d: ../src/main.cpp /home/frans/arduino/Spi_core/src/Arduino.h \
+ /home/frans/arduino/Spi_core/src/binary.h \
+ /home/frans/arduino/Spi_core/src/WCharacter.h \
+ /home/frans/arduino/Spi_core/src/WString.h \
+ /home/frans/arduino/Spi_core/src/HardwareSerial.h \
+ /home/frans/arduino/Spi_core/src/Stream.h \
+ /home/frans/arduino/Spi_core/src/Print.h \
+ /home/frans/arduino/Spi_core/src/Printable.h \
+ /home/frans/arduino/Spi_core/src/new.h \
+ /home/frans/arduino/Spi_core/src/pins_arduino.h
 
-/home/frans/workspace/arduino_core/src/Arduino.h:
+/home/frans/arduino/Spi_core/src/Arduino.h:
 
-/home/frans/workspace/arduino_core/src/binary.h:
+/home/frans/arduino/Spi_core/src/binary.h:
 
-/home/frans/workspace/arduino_core/src/WCharacter.h:
+/home/frans/arduino/Spi_core/src/WCharacter.h:
 
-/home/frans/workspace/arduino_core/src/WString.h:
+/home/frans/arduino/Spi_core/src/WString.h:
 
-/home/frans/workspace/arduino_core/src/HardwareSerial.h:
+/home/frans/arduino/Spi_core/src/HardwareSerial.h:
 
-/home/frans/workspace/arduino_core/src/Stream.h:
+/home/frans/arduino/Spi_core/src/Stream.h:
 
-/home/frans/workspace/arduino_core/src/Print.h:
+/home/frans/arduino/Spi_core/src/Print.h:
 
-/home/frans/workspace/arduino_core/src/Printable.h:
+/home/frans/arduino/Spi_core/src/Printable.h:
 
-/home/frans/workspace/arduino_core/src/new.h:
+/home/frans/arduino/Spi_core/src/new.h:
 
-/home/frans/workspace/arduino_core/src/pins_arduino.h:
+/home/frans/arduino/Spi_core/src/pins_arduino.h:
